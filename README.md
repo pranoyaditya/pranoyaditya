@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Preetom Aditya Pranoy, a student of the CSE department at Sheikh Hasina University, Netrakona
-- 👀 I’m interested in Competitive Programming and Projects.
-- 🌱 I’m currently learning every essential thing.
-- 💞️ I’m looking to collaborate on Game Development Projects.
+- 👋 I am Preetom Aditya Pranoy, a student in the Computer Science department at Sheikh Hasina University, Netrakona.
+- 👀 I am interested in competitive programming and project work..
+- 🌱 I am currently learning all the essential things.
+- 💞️ I am looking to collaborate on game development projects. If you're interested, please reach out! 📫
 - 📫 How to reach me: [Facebook](https://www.facebook.com/pranoy.aditya/)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: We can play video games. I love to play and wish to become an excellent game developer in the future.
+- ⚡ Fun fact: I enjoy playing video games and aspire to become an excellent game developer in the future.
 
 <!---
 pranoyaditya/pranoyaditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
