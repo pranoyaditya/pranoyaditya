@@ -1,4 +1,4 @@
-- 👋 I am Preetom Aditya Pranoy, a student in the Computer Science department at Sheikh Hasina University, Netrakona.
+- 👋 I am Preetom Aditya Pranoy, a student in the Computer Science department at Netrokona University, Netrakona.
 - 👀 I am interested in competitive programming and project work..
 - 🌱 I am currently learning all the essential things.
 - 💞️ I am looking to collaborate on game development projects. If you're interested, please reach out! 📫
